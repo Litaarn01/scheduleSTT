@@ -1,0 +1,2 @@
+# scheduleSTT
+Jadwal Perkuliahan
